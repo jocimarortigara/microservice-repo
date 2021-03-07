@@ -1,0 +1,8 @@
+spring:
+    datasource:
+      password: JoceO2020!@
+      username: root
+      url: 'jdbc:mysql://192.168.0.104:3306/fornecedor'
+    jpa:
+      hibernate:
+        ddl-auto: update
